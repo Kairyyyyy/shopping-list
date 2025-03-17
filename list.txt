@@ -2,3 +2,6 @@ orange
 mango
 äpfel
 birnen
+kebap
+pizza
+pasta

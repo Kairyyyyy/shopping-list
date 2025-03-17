@@ -7,4 +7,5 @@ birnen
 kebap
 pizza
 pasta
-wasser 
+wasser
+salat 

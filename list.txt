@@ -4,5 +4,8 @@ mango
 birnen
 kebap
 pizza
+ - Mehl
+ - Tomatensoße
+ - Salami
 pasta
 wasser 

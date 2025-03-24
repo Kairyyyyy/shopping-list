@@ -9,7 +9,7 @@ birnen
 kebap 2x
 pizza
 pasta
-wasser
+wasser 2x
 salat
 kekse 
 cookies

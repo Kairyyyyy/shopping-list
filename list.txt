@@ -6,7 +6,7 @@ maderinen
 mango
 äpfel
 birnen
-kebap
+kebap 2x
 pizza
 pasta
 wasser
